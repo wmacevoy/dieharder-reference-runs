@@ -1,4 +1,4 @@
-# Dieharder Example Runs
+# Dieharder Reference Runs
 
 ## Why
 
